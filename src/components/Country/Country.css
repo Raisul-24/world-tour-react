@@ -1,0 +1,13 @@
+.country{
+        border: 2px solid aquamarine;
+        margin: 5px;
+        padding: 10px;
+        border-radius: 5px;
+}
+
+.visited{
+        background-color: bisque;
+}
+.not-visited{
+        background-color: white;
+}
